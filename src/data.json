@@ -1,0 +1,108 @@
+[
+    {
+        "path" : "web-dev", 
+        "name" : "Web Dev",
+        "fullname" : "Laravel - Web Development (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "Laravel merupakan framework berbasis PHP yang sangat populer, cepat, dan mudah dalam membuat website custom sesuai dengan kebutuhan dan keinginan.",
+        "tags" : ["HTML CSS", "Bootstrap", "JavaScript", "PHP", "MySQL", "Laravel"],
+        "studi_kasus" : [
+            "Dasar UI/UX website","Latihan real project","Bekerja secara tim menggunakan GIT","Setting web domain dan server"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "Perpustakaan kode + plugin pilihan",
+            "Server hosting untuk latihan", "Webinar session", "Sertifikat"
+        ]
+    },
+    {
+        "path" : "mobile-dev", 
+        "name" : "Moble App Dev",
+        "fullname" : "React Native - Mobile App Development (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "Rancang dan buat aplikasi mobile android dan IOS menggunakan framework populer React Native yang juga menggunakan bahasa pemrograman populer JavaScript.",
+        "tags" : ["JavaScript","ES6 & ES7","React Js","Figma Prototyping","React Native"],
+        "studi_kasus" : [
+            "Dasar UI/UX Mobile Apps","Latihan Real Project","Bekerja secara tim menggunakan GIT","Integrasi apps dengan database server", "Build dan deploy apps"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "Perpustakaan kode + plugin pilihan",
+            "Webinar / Video Conference Session", "Sertifikat"
+        ]
+    },
+    {
+        "path" : "data-science", 
+        "name" : "Data Science",
+        "fullname" : "Python - Data Science (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "Data science dan machine learning merupakan salah satu skill yang sedang trending dan banyak dicari berbagai perusahaan. Pamor Python juga semakin populer dikarenakan banyak library python yang memudahkan pengolahan data dan machine learning.",
+        "tags" : ["Basic Python", "Python Object", "Data Manipulation with Pandas", "Data Visualization", "Machine Learning"],
+        "studi_kasus" : [
+            "Dasar pemrograman python","Dasar logika matematika","Manipulasi data real case","Design visualisasi data", "Simulasi kompetisi machine learning"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "Perpustakaan kode + plugin pilihan",
+            "Webinar session", "Sertifikat"
+        ]
+    },
+    {
+        "path" : "graphic-design", 
+        "name" : "Graphic Design",
+        "fullname" : "Adobe & Blender - Graphic Design (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "Adobe Photoshop dan Adobe Illustrator saat ini menjadi standar tools design di perusahaan. Blender dikenal sebagai tools 3D modeling yang populer dan open source. Penguasaan Adobe dan Blender membuat desainer grafis semakin profesional",
+        "tags" : ["Basic Desain Grafis", "Illustrator Essential", "Photoshop Essential", "Basic 3D Modelling"],
+        "studi_kasus" : [
+            "Dasar teknik desain","Membuat ilustrasi vektor",
+            "Manipulasi foto","Desain objek 3D"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "Design asset",
+            "Webinar session", "Sertifikat"
+        ]
+    },
+    {
+        "path" : "cms-web", 
+        "name" : "CMS Web",
+        "fullname" : "Wordpress - CMS Web (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "Wordpress sangat cocok untuk membuat website dengan kebutuhan fitur yang umum seperti web blog, company profile, web sekolah, toko online, kursus online, donasi, dan banyak lagi. Pembuatannya cepat, murah, dan tidak perlu kemampuan coding.",
+        "tags" : ["Basic Wordpress","Custom Design Page","Woocommerce","Learning Management System","User Management"],
+        "studi_kasus" : [
+            "Blog / company profile","Web komunitas","Toko online","Crowdfunding", "Pembayaran otomatis", "Kursus online", "Basic SEO"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "Perpustakaan kode + plugin pilihan",
+            "Server hosting untuk latihan", "Webinar session", "Sertifikat"
+        ]
+    },
+    {
+        "path" : "web-frontend", 
+        "name" : "Web Frontend Dev",
+        "fullname" : "React Js - Web Frontend Development (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "React Js merupakan salah satu framework frontend populer. Digunakan oleh banyak perusahaan besar dan didukung komunitas yang besar serta kemudahan penggunaannya, menjadi daya tarik utama kenapa memilih React JS untuk membuat website lebih user friendly",
+        "tags" : ["JavaScript", "HTML", "Ecmascript 2015(ES 6)", "React Fundamental", "React Hook + Context"],
+        "studi_kasus" : [
+            "Dasar pemrograman javascript","Ecmascript 2015 (ES6)","Single page application","Build & deployment"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "plugin pilihan", "Webinar session", "Sertifikat"
+        ]
+    },
+    {
+        "path" : "ui-ux", 
+        "name" : "UI/UX",
+        "fullname" : "UI/UX Design (Batch Juli 2020)", 
+        "jadwal" : "20 Jul - 14 Aug 2020",
+        "desc" : "UI/UX design course ini membawa design-centric approach kepada user interface dan user experience design, menawarkan instruksi praktikal dan skill-based dari perspektif desain komunikasi visual dan menerapkannya untuk menciptakan pengalaman berbasis layar yang efektif dan menarik. Dalam 4 pekan, kamu akan merangkum dan mendemonstrasikan semua tahapan proses pengembangan UI/UX menggunakan aplikasi Adobe XD dan Figma, mulai dari riset pengguna hingga menentukan strategi, ruang lingkup, dan arsitektur informasi proyek, hingga mengembangkan wireframe, mockup, dan design deliverable lainnya.",
+        "tags" : ["Visual design","User Interface Design","User Experience Design","Design Process","Adobe XD","Marvel","Mockup","Prototyping","Design Deliverables"],
+        "studi_kasus" : [
+            "Design Research","Design Strategy & Information Architecture","User Journey & User flow","Wireframe & Mockup", "Styleguide & Specification", "Usability Testing"
+        ],
+        "fasilitas" : [
+            "Tutorial pilihan", "Perpustakaan kode + plugin pilihan",
+            "Server hosting untuk latihan", "Webinar session", "Sertifikat"
+        ]
+    }
+
+]

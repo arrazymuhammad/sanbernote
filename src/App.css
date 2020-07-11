@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
+.app {
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app-header {
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.materiList {
+  padding: 0;
   display: flex;
-  flex-direction: column;
+  justify-content: left;
+  list-style: none;
+}
+
+.materiListItem {
+    background: #fff;
+    padding: .6vh 1.9vh;
+    margin-right: .7vh;
+    border-radius: .7vh;
+    font-weight: bold;
+    transition: all ease .5s;
+    color: #00aed6; 
+    border: 1px solid #00aed6;
+    cursor: pointer;
+}
+
+.materiListItem:hover {
+  background-color: #00aed6; 
+  color : #fff;
+}
+
+.materiTitle {
+  font-weight: bold;
+  font-size: 16px;
+  color: #06667d;
+}
+.studiKasusList { 
+  justify-content: left;
+  list-style: none;
+}
+.studiKasusListItem::before {
+  content: "";
+    display: block;
+    background: #00aed6;
+    margin-top: 0.7vh;
+    margin-left: -50px;
+    height: 1vh;
+    width: 3.9vh;
+    position: absolute;
+    border-radius: 0.35vw;
+    box-shadow: 0 2px 6px rgba(0,0,0,.16);
+}
+
+.studiKasusListItem {
+  background: #fff;
+  padding: .6vh 1.9vh;
+  margin-right: .7vh;
+  border-radius: .7vh;
+  font-weight: bold;
+  transition: all ease .5s;
+  cursor: pointer;
+}
+
+.studiKasusListItem:hover {
+  color: #00aed6;
+  font-weight: bold;
+}
+
+.btnDaftarContainer {
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+}
+
+.btn-daftar { 
+  background-color: #003366;
+  box-shadow: 2px 3px 3px rgba(0,0,0,0.16);
+  padding: 15px 50px;
+  color : white;
+  font-weight: bold;
+  font-size: 24px;
+  border-radius: 12px;
+}
+
+.landingPage {
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  display: flex;
+  flex-direction: column;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-daftar-dark { 
+  padding : 10px 50px;
+  font-size: 24px;
+  font-weight: bold;
 }
