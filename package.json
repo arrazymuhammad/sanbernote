@@ -20,6 +20,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://arrazymuhammad.com/sanbernote/",
   "browserslist": {
     "production": [
       ">0.2%",
